@@ -1,8 +1,6 @@
 package se.labb1.bo;
 
-import java.io.Serializable;
-
-public class Produkt implements Serializable {
+public class Produkt {
 
     private int id;
     private String namn;
